@@ -1,0 +1,16 @@
+{
+  "name": "School Timetable Pro & Staff Workload Manager",
+  "short_name": "SchoolTimetable",
+  "description": "Smart school timetable generator, drag-and-drop schedule planner, staff workload tracker, and duty roster manager.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

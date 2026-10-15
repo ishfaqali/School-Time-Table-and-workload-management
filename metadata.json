@@ -1,0 +1,6 @@
+{
+  "name": "School Timetable Pro & Staff Workload Manager",
+  "description": "Comprehensive school timetable maker with drag-and-drop scheduling, printable PDF export, cloud syncing, staff workload analytics, and duty roster manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
